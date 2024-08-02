@@ -1,0 +1,101 @@
+.boder{
+    border: 5px solid #cd661b;
+    height: 1140px;
+    width: 608px;
+    margin-top: 20px;
+    margin-left: 290px;
+    background-color: #fffefc;
+}
+.head{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 10px;
+    
+
+}
+.h4{
+    padding: 10px;
+    margin: 0;
+    font-weight: bolder;
+    
+}
+#zero{
+    color: brown;
+}
+.logo{
+    height: 100px;
+    width: 120px;
+  
+}
+#qr{
+    padding: 5px;
+    height: 80px;
+    width: 90px;
+}
+.text{
+    color: brown;;
+    margin: 0 40px;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    font-size: small;
+}
+.text2{
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+    font-size: large;
+}
+
+table, tr,td,th{
+    text-align: center;
+    border: 1px solid brown;
+    background-color: rgb(249, 232, 199);
+    border-collapse: collapse;
+    margin: 0 20px;
+    width: 570px;
+    padding: 5px;
+}
+#th{
+    color: rgb(182, 82, 42);
+}
+#sp{
+ color: black;
+ font-weight: bold;
+}
+
+p{
+    color: brown;; 
+}
+.foot{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+#ani{
+    color: black;
+    font-weight: bold;
+}
+#p,#down{
+    margin-top: 25px;
+}
+input{
+    width: 40px;
+    border: none;
+    margin-left: 15px;
+    background-color: #f2e3d4;
+    border: 1px solid black;
+}
+input:hover{
+    background-color: wheat;
+    border: none;
+    color: black;
+}
+
